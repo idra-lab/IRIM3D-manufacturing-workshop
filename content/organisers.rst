@@ -7,10 +7,11 @@ Organisers
    :affiliation: Università degli Studi di Trento
    :photo: ../_static/matteo-dallevedove.jpg
 
-   Matteo Dalle Vedove is a PhD student whose research focuses on transferring human skills to robotic manipulators, with particular focus on industrial application. 
-   He is currently working on extending Learning from Demonstration (LfD) methods to contact-rich tasks, such as polishing, wiping, and grinding.
-
+   Matteo received his B.S. degree in Industrial Engineering and M.S. degree in Mechatronics Engineering at the Department of Industrial Engineering at the Università degli Studi di Trento.
+   He is now pursuing a Ph.D. in Robotics and Intelligent Machine at the same departament, supervised by prof.s Matteo Saveriano, Daniele Fontanelli, and Luigi Palopoli.
+   His thesis and research work focuses on Learning from Demonstration techniques for geometric-aware contact-rich manipulation, specifically applied to manufacturing processes such as polishing, wiping, and grinding.
    To accelerate the development of robotic applications, Matteo combines theoretical research with a strong passion for programming, with particular emphasis on C++ and ROS2.
+   He is now spending 6-month as research intern at the Humanoid and Human-Centered Mechatronics (HHCM) laboratory at Istituto Italiano di Tecnologia (IIT) in Genoa, Italy, under the supervision of prof. Nikos Tsagarakis.
 
 
 
