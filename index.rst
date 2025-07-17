@@ -13,7 +13,7 @@
 .. container:: datetime
 
 
-   | Workshop at `IRIM3D <https://i-rim.it/it/conferenza-i-rim-3d-2025/>`_
+   | Workshop at `I-RIM 3D <https://i-rim.it/it/conferenza-i-rim-3d-2025/>`_
    | 17-19th October, 2025
    | Rome, Italy
 

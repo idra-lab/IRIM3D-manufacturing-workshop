@@ -1,4 +1,5 @@
 import os
+from posixpath import join
 import sys
 
 newpath = os.path.abspath(os.path.join(__file__, '../..'))
@@ -35,12 +36,28 @@ exclude_patterns = [".venv/**"]
 from docutils import nodes
 from docutils.parsers.rst import Directive, directives
 
+
 class person_node(nodes.General, nodes.Element):
     pass
 
+def join_until_empty(lst):
+    result = []
+    current_group = []
+    for item in lst:
+        if item != "":
+            current_group.append(item)
+        else:
+            if current_group:
+                result.append(" ".join(current_group))
+                current_group = []
+    if current_group:
+        result.append(" ".join(current_group))
+    return result
+
+
 class PersonDirective(Directive):
     has_content = True
-    required_arguments = 0  
+    required_arguments = 0
     optional_arguments = 0
     option_spec = {
         'name': directives.unchanged,
@@ -52,7 +69,8 @@ class PersonDirective(Directive):
         name = self.options.get('name', '')
         affiliation = self.options.get('affiliation', '')
         photo = self.options.get('photo', '')
-        description = '\n'.join(self.content)
+        desc_pars = [f"<p> {par} </p>" for par in join_until_empty(self.content)]
+        description = '\n'.join(desc_pars)
 
         # Build raw HTML
         html = f"""
@@ -68,6 +86,7 @@ class PersonDirective(Directive):
 </div>
 """
         return [nodes.raw('', html, format='html')]
+
 
 def setup(app):
     app.add_directive("person", PersonDirective)
