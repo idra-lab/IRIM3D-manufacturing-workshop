@@ -10,11 +10,11 @@
    | Industry 5.0: 
    | Workplace Transformation with Next Generation Smart Robots
 
+
 .. container:: datetime
 
-
    | Workshop at `I-RIM 3D <https://i-rim.it/it/conferenza-i-rim-3d-2025/>`_
-   | 17-19th October, 2025
+   | October 17th, 2025
    | Rome, Italy
 
 .. rst-class:: abstract
@@ -47,12 +47,18 @@ Attendees will gain a comprehensive overview of the latest developments that are
 
 
 
-Invited Speakers
-================
+Confirmed Speakers
+==================
 
-*Work in progress...*
+The workshop will feature 6 invited talks, including:
 
-- Full name, affiliation;
+- Marco Todescato, Fraunhofer Italia;
+- Francesca Negrello, JOiiNT LAB, Istituto Italiano di Tecnologia
+- Riccardo Caccavale, Università degli Studi di Napoli "Federico II"
+- Stefano Ghidoni, Università degli studi di Padova 
+
+For further details, see the :ref:`dedicated page <speakers>`.
+
 
 Deadlines
 =========
@@ -74,7 +80,7 @@ Check out the following pages for detailed information about the program, the li
    :maxdepth: 1
 
    content/program.md
-   content/speakers.md
+   content/speakers.rst
    content/call-contribution.md
    content/organisers.rst
 
