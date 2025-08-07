@@ -4,6 +4,20 @@ Invited Speakers
 ================
 
 .. person:: 
+   :name: Riccardo Caccavale
+   :affiliation: Università degli Studi di Napoli "Federico II"
+   :photo: ../_static/caccavale.jpg
+   
+   Riccardo Caccavale is an Assistant Professor of Computer Science at the University of Naples Federico II. 
+   He received his Ph.D. in Information Technology and Electrical Engineering in 2017. 
+   Since 2015, he has been an active member of the PRISMA Lab and the CREATE research group, where his work focuses on artificial intelligence, cognitive robotics, and human-robot interaction.
+
+   He has participated in several national and international research projects funded by the European Union and the Italian Ministry of Research. 
+   He is currently the local principal investigator of the Horizon Europe project INVERSE.
+   
+   Dr. Caccavale has authored over 40 publications, including journal articles, conference papers, and book chapters. He serves as an Associate Editor for IEEE ICRA and IROS conferences and is a Program Committee member for ECAI. His current research aims to bridge the gap between human cognitive capabilities and intelligent robotic systems.
+
+.. person:: 
    :name: Marco Todescato
    :affiliation: Franhofer Italia
    :photo: ../_static/todescato.png
