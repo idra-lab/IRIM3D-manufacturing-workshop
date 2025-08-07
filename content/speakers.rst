@@ -18,6 +18,19 @@ Invited Speakers
    Dr. Caccavale has authored over 40 publications, including journal articles, conference papers, and book chapters. He serves as an Associate Editor for IEEE ICRA and IROS conferences and is a Program Committee member for ECAI. His current research aims to bridge the gap between human cognitive capabilities and intelligent robotic systems.
 
 .. person:: 
+   :name: Stafano Ghidoni
+   :affiliation: Università degli Studi di Padova
+   :photo: ../_static/ghidoni.jpg
+   
+   Stefano Ghidoni is professor of Computer Vision at the University of Padua, Italy. 
+   His main research interests focus on human perception for human-robot collaboration, including action recognition and prediction, multi-view body pose estimation in cluttered environments, multi-modal human perception, intelligent hand-eye robot calibration. 
+
+   Stefano Ghidoni was visiting scientist at the University of Zurich, Sungkyunkwan University in Seoul, and University of Lincoln, UK.
+   Stefano Ghidoni received the M.Sc. in Telecommunication Engineering and the Ph.D. in Information Technologies from the University of Parma, in 2004 and 2008, respectively. 
+   During the Ph.D., he worked in the field of human perception for autonomous driving.
+
+
+.. person:: 
    :name: Marco Todescato
    :affiliation: Franhofer Italia
    :photo: ../_static/todescato.png
@@ -27,3 +40,4 @@ Invited Speakers
    After a Postdoctoral Fellowship at DEI, he was Research Scientist at the Bosch Center for Artificial Intelligence (DE).
 
    Now, he is Senior Researcher at Fraunhofer Italia and leader of the Machine Intelligence Development (M.IN.D.) team. His research focus and expertise include optimization, computer vision and deep learning with applications to robotics systems.
+
