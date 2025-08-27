@@ -56,19 +56,23 @@ The workshop will feature 6 invited talks, including:
 - Francesca Negrello, JOiiNT LAB, Istituto Italiano di Tecnologia
 - Riccardo Caccavale, Università degli Studi di Napoli "Federico II"
 - Stefano Ghidoni, Università degli studi di Padova 
+- Next Generation Robotics
 
 For further details, see the :ref:`dedicated page <speakers>`.
 
 
-Deadlines
-=========
+Article submission and Deadlines
+================================
 
-*Work in progress...*
+The workshop accepts 2 page abstracts of articles bound to the workshop theme.
+For more information, consult the :ref:`dedicated page <contributions>`.
 
-- Submission dealine: XX XXXX;
-- Notification of acceptance: XX XXXX;
-- Final version: XX XXXX;
-- Workshop date: XX XXXX;
+- **Submission dealine: Tuesday, September 23, 2025**;
+- Notification of acceptance: Tuesday, September 30, 2025;
+- Early bird registration to the conference: Friday, October 3, 2025;
+- Workshop date: Friday, October 17, 2025;
+
+For more information about
 
    
 Main links
