@@ -29,6 +29,16 @@ Invited Speakers
    Stefano Ghidoni received the M.Sc. in Telecommunication Engineering and the Ph.D. in Information Technologies from the University of Parma, in 2004 and 2008, respectively. 
    During the Ph.D., he worked in the field of human perception for autonomous driving.
 
+.. person:: 
+   :name: Francesca Negrello
+   :affiliation: Franhofer Italia
+   :photo: ../_static/negrello.jpg
+
+   Francesca Negrello is the Technology Manager at JOiiNT LAB, a joint initiative between the Italian Institute of Technology (IIT) and Intellimech, focused on applied research and technology transfer. She earned her PhD in 2017, and her work in collaborative robotics has significantly advanced the development of humanoid robots, physically compliant actuators and sensors, and intuitive human-robot interfaces.
+
+   Her research has been instrumental in bridging the gap between laboratory and “in field” application, with technologies reaching Technology Readiness Levels (TRL) 5–7 in different sectors, leading to further exploitation at higher TRL.
+
+   Francesca’s contributions have been recognized with several prestigious awards, including the 40Under40 Fortune Italia (2025), MECSPE Solution Award (2023), Best Paper Award at I-RIM (2022), and MIT Technology Review Italia TR35 (2017).
 
 .. person:: 
    :name: Marco Todescato
