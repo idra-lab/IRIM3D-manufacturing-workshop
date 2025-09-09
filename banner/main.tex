@@ -66,7 +66,7 @@
 \usebackgroundtemplate{\includegraphics[width=\paperwidth]{background.png}}
 \begin{frame}[plain]
     \begin{tikzpicture}[remember picture,overlay]
-        \node[below right, text=primaryColor, xshift=0.3cm, yshift=-0.25cm] (WS) at (current page.north west) {Workshop ad \textit{I-RIM 3D 2025}};
+        \node[below right, text=primaryColor, xshift=0.3cm, yshift=-0.18cm] (WS) at (current page.north west) {Workshop ad \textit{I-RIM 3D 2025}};
         \node[primaryColor, below right, yshift=-0.1cm] (TITLE1) at (WS.south west) {\huge \textbf{Industry 5.0:}};
         \node[primaryColor, below right, yshift=1mm] (TITLE2) at (TITLE1.south west) {\Large \textbf{Workplace Transformation with}};
         \node[primaryColor, below right, yshift=1mm] (TITLE3) at (TITLE2.south west) {\Large \textbf{Next Generation Smart Robots}};
@@ -84,6 +84,13 @@
             \node[backgroundColor] (GROUP2) at ([yshift=12mm]$(S3)!0.5!(S4)$) {\bfseries Applied scientists};
             \node[backgroundColor] (GROUP3) at ([yshift=12mm]$(S5)!0.5!(S6)$) {\bfseries Startups};
         \end{scope}
+
+        \node[primaryColor, below left, xshift=-0.3cm, yshift=-0.18cm] (ORG) at (current page.north east) {\footnotesize Organisers:};
+        \node[below left] (IDRA) at ([yshift=1mm]ORG.south east) {\includegraphics[width=1.4cm]{images/idra} };
+        \node[below left] (UNITN) at (IDRA.north west) {\includegraphics[width=1.4cm]{images/unitn} }; 
+        \node[primaryColor, below left] (O1) at ([yshift=2mm]IDRA.south east) {\scriptsize Matteo Dalle Vedove};
+        \node[primaryColor, below left] (O2) at ([yshift=2mm]O1.south east) {\scriptsize Edoardo Lamon};
+        \node[primaryColor, below left] (O3) at ([yshift=2mm]O2.south east) {\scriptsize Daniele Fontanelli};
         
 
     \end{tikzpicture}
