@@ -4,6 +4,7 @@ Organisers
 
 .. person:: 
    :name: Matteo Dalle Vedove
+   :mail: matteo.dallevedove@unitn.it
    :affiliation: Università degli Studi di Trento
    :photo: ../_static/matteo-dallevedove.jpg
 
@@ -19,6 +20,7 @@ Organisers
 
 .. person:: 
    :name: Edoardo Lamon
+   :mail: edoardo.lamon@unitn.it
    :affiliation: Università degli Studi di Trento
    :photo: ../_static/edoardo-lamon.png
 
@@ -33,6 +35,7 @@ Organisers
 
 .. person:: 
    :name: Daniele Fontanelli
+   :mail: daniele.fontanelli@unitn.it
    :affiliation: Università degli Studi di Trento
    :photo: ../_static/daniele-fontanelli.jpg
 

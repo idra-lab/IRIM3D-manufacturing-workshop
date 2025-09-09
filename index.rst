@@ -52,11 +52,12 @@ Confirmed Speakers
 
 The workshop will feature 6 invited talks, including:
 
-- Marco Todescato, Fraunhofer Italia;
-- Francesca Negrello, JOiiNT LAB, Istituto Italiano di Tecnologia
-- Riccardo Caccavale, Università degli Studi di Napoli "Federico II"
 - Stefano Ghidoni, Università degli studi di Padova 
-- Next Generation Robotics
+- Riccardo Caccavale, Università degli Studi di Napoli "Federico II"
+- Francesca Negrello, JOiiNT LAB, Istituto Italiano di Tecnologia
+- Marco Todescato, Fraunhofer Italia;
+- `Next Generation Robotics <https://nextgen-robotics.it/>`_
+- `Fluid Wire Robotics <https://www.fluidwirerobotics.com/>`_
 
 For further details, see the :ref:`dedicated page <speakers>`.
 

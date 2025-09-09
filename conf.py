@@ -63,12 +63,14 @@ class PersonDirective(Directive):
         'name': directives.unchanged,
         'affiliation': directives.unchanged,
         'photo': directives.unchanged,
+        'mail': directives.unchanged,
     }
 
     def run(self):
         name = self.options.get('name', '')
         affiliation = self.options.get('affiliation', '')
         photo = self.options.get('photo', '')
+        mail = self.options.get('mail', '')
         desc_pars = [f"<p> {par} </p>" for par in join_until_empty(self.content)]
         description = '\n'.join(desc_pars)
 
@@ -80,6 +82,7 @@ class PersonDirective(Directive):
         <div class="person-name">{name}</div>
         <div class="person-affiliation">{affiliation}</div>
         <div class="person-description">
+            Contact: <a href="mailto:{mail}">{mail}</a> 
             {description}
         </div>
     </div>
