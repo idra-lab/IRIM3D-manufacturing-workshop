@@ -40,6 +40,7 @@ from docutils.parsers.rst import Directive, directives
 class person_node(nodes.General, nodes.Element):
     pass
 
+
 def join_until_empty(lst):
     result = []
     current_group = []
@@ -71,10 +72,14 @@ class PersonDirective(Directive):
         affiliation = self.options.get('affiliation', '')
         photo = self.options.get('photo', '')
         mail = self.options.get('mail', '')
-        desc_pars = [f"<p> {par} </p>" for par in join_until_empty(self.content)]
+        desc_pars = [
+            f"<p> {par} </p>" for par in join_until_empty(self.content)
+        ]
         description = '\n'.join(desc_pars)
 
         # Build raw HTML
+        contact_str = f'Contact: <a href="mailto:{mail}">{mail}</a>' if mail != '' else ''
+        print(contact_str)
         html = f"""
 <div class="person-card">
     <img src="{photo}" alt="{name} Photo" class="person-photo">
@@ -82,7 +87,7 @@ class PersonDirective(Directive):
         <div class="person-name">{name}</div>
         <div class="person-affiliation">{affiliation}</div>
         <div class="person-description">
-            Contact: <a href="mailto:{mail}">{mail}</a> 
+            {contact_str}
             {description}
         </div>
     </div>

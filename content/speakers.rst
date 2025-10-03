@@ -51,3 +51,12 @@ Invited Speakers
 
    Now, he is Senior Researcher at Fraunhofer Italia and leader of the Machine Intelligence Development (M.IN.D.) team. His research focus and expertise include optimization, computer vision and deep learning with applications to robotics systems.
 
+.. person:: 
+   :name: Marco Bolignari
+   :affiliation: Fluid Wire Robotics
+   :photo: ../_static/bolignari.jpg
+
+   Marco Bolignari is a Mechatronics Engineer and holds a Ph.D. in Materials, Mechatronics and Systems Engineering from the University of Trento. 
+
+   The research conducted during his doctoral studies laid the technological foundation for Fluid Wire Robotics, a startup he currently serves as CEO. Fluid Wire Robotics specializes in the development of advanced robotic systems designed to operate in extreme environments, including space and nuclear applications.
+

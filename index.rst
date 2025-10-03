@@ -57,7 +57,7 @@ The workshop will feature 6 invited talks, including:
 - Francesca Negrello, JOiiNT LAB, Istituto Italiano di Tecnologia
 - Marco Todescato, Fraunhofer Italia;
 - `Next Generation Robotics <https://nextgen-robotics.it/>`_
-- `Fluid Wire Robotics <https://www.fluidwirerobotics.com/>`_
+- Marco Bolignari, `Fluid Wire Robotics <https://www.fluidwirerobotics.com/>`_
 
 For further details, see the :ref:`dedicated page <speakers>`.
 
