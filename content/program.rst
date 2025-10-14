@@ -24,7 +24,7 @@ Learn more about the speakers at the dedicated page :ref:`speakers`!
 +----------------+--------------------+--------------------------------------------------------------------------------------+
 | 15.15 - 15.30  | Riccardo Caccavale | Cognitive Control and Executive Attention for Collaborative Robotics in Industry 5.0 |
 +----------------+--------------------+--------------------------------------------------------------------------------------+
-| 15.30 - 15.45  | Francesca Negrello | —                                                                                    |
+| 15.30 - 15.45  | Francesca Negrello | Between research and industry: experiences from the field                            |
 +----------------+--------------------+--------------------------------------------------------------------------------------+
 | 15.45 - 16.00  | Marco Todescato    | Robotics picking: an applied research perspective                                    |
 +----------------+--------------------+--------------------------------------------------------------------------------------+
