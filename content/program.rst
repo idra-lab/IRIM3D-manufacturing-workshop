@@ -28,9 +28,9 @@ Learn more about the speakers at the dedicated page :ref:`speakers`!
 +----------------+--------------------+--------------------------------------------------------------------------------------+
 | 15.45 - 16.00  | Marco Todescato    | Robotics picking: an applied research perspective                                    |
 +----------------+--------------------+--------------------------------------------------------------------------------------+
-| 16.00 - 16.15  | —                  | Next Generation Robotics                                                             |
+| 16.00 - 16.15  | Domenico Chiaradia | ARGO: Autonomous Robotic Train Inspection                                            |
 +----------------+--------------------+--------------------------------------------------------------------------------------+
-| 16.15 - 16.30  | Marco Bolignari    | —                                                                                    |
+| 16.15 - 16.30  | Marco Bolignari    | Towards a new generation of robots for extreme environments                          |
 +----------------+--------------------+--------------------------------------------------------------------------------------+
 
 Extended abstract presentations
