@@ -60,3 +60,15 @@ Invited Speakers
 
    The research conducted during his doctoral studies laid the technological foundation for Fluid Wire Robotics, a startup he currently serves as CEO. Fluid Wire Robotics specializes in the development of advanced robotic systems designed to operate in extreme environments, including space and nuclear applications.
 
+
+.. person:: 
+   :name: Domenico Chiaradia
+   :affiliation: Next Generation Robotics
+   :photo: ../_static/chiaradia.jpg
+
+    Domenico Chiaradia is Assistant Professor of Mechanical Engineering focusing on Robotics at Sant’Anna School of Advanced Studies, Pisa, Italy. He leads the group developing flexible and portable exoskeletons, and soft exosuits in the Human Robot Interaction (HRI) research area. He received the M.S. degree with honors in control theory and automation engineering from the Polytechnic University of Bari, Italy, in 2014 respectively, and the Ph.D. degree in perceptual robotics at Scuola Superiore Sant'Anna in 2018.
+
+   His current research interests include physical human-robot interaction, rigid and flexible exoskeletons and soft exosuits for assistance and rehabilitation, mechanical design and control of flexible joints, and haptic interfaces.
+
+   Domenico is a co-founder of the Next Generation Robotics srl (NGR), a spin-off company of Sant’Anna School of Advanced Studies.
+
